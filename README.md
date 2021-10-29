@@ -1,4 +1,4 @@
-# RFM-Analysis
+# RFM Analysis
 
 The aim of this project is to analyze past purchase data of customers to gain insights on their spending habits. The RFM model is applied on the dataset to cluster users based on Recency, Frequency, and Monetary quartile scores. The customers are then categorised into 6 segments which helps us identify how different sets of customers would react to new retail marketing strategies and promotions.
 
