@@ -23,7 +23,7 @@ Here's how the analysis was performed:
 ### Results
    1. RFM values, their corresponding quartile scores and their final combined RFM scores:
      ![Final RFM Table](RFMtable.png)
-   2. The six customer segments and their corresponding count:
+   2. The six customer segments and their corresponding counts:
      ![Final Segments](finalsegments.png)
 ### References
 This project is an implementation of the analysis shown [here](https://www.kaggle.com/sarahm/customer-segmentation-using-rfm-analysis/notebook) and the [dataset](https://www.kaggle.com/sarahm/customer-segmentation-using-rfm-analysis/data) is from an e-commerce retailer based in the UK.
